@@ -1,6 +1,6 @@
 # flutter2
 
-A new Flutter project.
+web bán hàng.
 
 ## Getting Started
 
