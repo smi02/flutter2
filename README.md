@@ -1,6 +1,6 @@
 # flutter2
 
-web bán hàng.
+demo app bán hàng uniqlo.
 
 ## Getting Started
 
